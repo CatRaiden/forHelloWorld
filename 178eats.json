@@ -1,0 +1,92 @@
+{
+  "data":[
+         {
+            "list":[
+              {
+                "name" : "淚牛滿面牛肉麵",
+                "store_id" : "1",
+                "location" : "25.0798317,121.4601453",
+                "raw_hero_url":"https://farm7.static.flickr.com/6080/6120266196_9d0c2b160f_o.jpg",
+                "avg_prep_time":"20~30分鐘"
+              },
+              {
+                "name" : "熟成紅茶",
+                "store_id" : "2",
+                "location" : "25.0896279,121.5179934",
+                "raw_hero_url":"https://images.chinatimes.com/newsphoto/2019-08-26/900/20190826003172.jpg",
+                "avg_prep_time":"10~15分鐘"
+              },
+              {
+                "name" : "淚牛滿面牛肉麵",
+                "store_id" : "1",
+                "location" : "25.0798317,121.4601453",
+                "raw_hero_url":"https://farm7.static.flickr.com/6080/6120266196_9d0c2b160f_o.jpg",
+                "avg_prep_time":"20~30分鐘"
+              },
+              {
+                "name" : "熟成紅茶",
+                "store_id" : "2",
+                "location" : "25.0896279,121.5179934",
+                "raw_hero_url":"https://images.chinatimes.com/newsphoto/2019-08-26/900/20190826003172.jpg",
+                "avg_prep_time":"10~15分鐘"
+              },
+              {
+                "name" : "淚牛滿面牛肉麵",
+                "store_id" : "1",
+                "location" : "25.0798317,121.4601453",
+                "raw_hero_url":"https://farm7.static.flickr.com/6080/6120266196_9d0c2b160f_o.jpg",
+                "avg_prep_time":"20~30分鐘"
+              },
+              {
+                "name" : "熟成紅茶",
+                "store_id" : "2",
+                "location" : "25.0896279,121.5179934",
+                "raw_hero_url":"https://images.chinatimes.com/newsphoto/2019-08-26/900/20190826003172.jpg",
+                "avg_prep_time":"10~15分鐘"
+              }
+              ],
+            "display_options":"RecommendForUCell",
+            "service_availablity":true
+          },
+          {
+            "list":[
+              {
+                "name" : "淚牛滿面牛肉麵",
+                "store_id" : "1",
+                "location" : "25.0798317,121.4601453",
+                "raw_hero_url":"https://farm7.static.flickr.com/6080/6120266196_9d0c2b160f_o.jpg",
+                "avg_prep_time":"20~30分鐘"
+              },
+              {
+                "name" : "熟成紅茶",
+                "store_id" : "2",
+                "location" : "25.0896279,121.5179934",
+                "raw_hero_url":"https://images.chinatimes.com/newsphoto/2019-08-26/900/20190826003172.jpg",
+                "avg_prep_time":"10~15分鐘"
+              }
+              ],
+            "display_options":"RecommendForUCell",
+            "service_availablity":true
+          },
+          {
+            "list":[
+              {
+                "name" : "淚牛滿面牛肉麵",
+                "store_id" : "1",
+                "location" : "25.0798317,121.4601453",
+                "raw_hero_url":"https://farm7.static.flickr.com/6080/6120266196_9d0c2b160f_o.jpg",
+                "avg_prep_time":"20~30分鐘"
+              },
+              {
+                "name" : "熟成紅茶",
+                "store_id" : "2",
+                "location" : "25.0896279,121.5179934",
+                "raw_hero_url":"https://images.chinatimes.com/newsphoto/2019-08-26/900/20190826003172.jpg",
+                "avg_prep_time":"10~15分鐘"
+              }
+              ],
+            "display_options":"RecommendMealCell",
+            "service_availablity":true
+          }
+  ]
+}
