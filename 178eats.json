@@ -65,7 +65,7 @@
                 "avg_prep_time":"10~15分鐘"
               }
               ],
-            "display_options":"RecommendMealCell",
+            "display_options":"RecommendForUCell",
             "service_availablity":true
           },
           {
