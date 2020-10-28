@@ -88,5 +88,6 @@
             "display_options":"RecommendMealCell",
             "service_availablity":true
           }
-  ]
+  ],
+  "nulltest" : null
 }
